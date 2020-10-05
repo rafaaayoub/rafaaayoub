@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm RAFA AYOUB</h1>
 <h3 align="center">Human Being 😃, Full Stack Web Developer 💻 and OSS believer ❤️</h3>
 
+- 🇲🇦 Based In Morocco
+
 - 🌱 I’m currently learning **GraphQl & React**
 
-- 👨‍💻 All of my projects are available at [Ayoubrafa.com](Ayoubrafa.com)
+- 📝 I regulary write articles on [Ayoubrafa.com](Ayoubrafa.com)
 
 - 📫 How to reach me **rafaa.ayoub@gmail.com**
 
