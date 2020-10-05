@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm RAFA AYOUB</h1>
-<h3 align="center">Human Being 😃, Full Stack Web Developer 💻 and OSS believer ❤️</h3>
+<h4>Hi 👋, I'm RAFA AYOUB</h1>
+<h4>Human Being 😃, Full Stack Web Developer 💻 and OSS believer ❤️</h3>
 
 - 🇲🇦 Based In Morocco
 
