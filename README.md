@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **GraphQl & React**
 
-- 📝 I regulary write articles on [Ayoubrafa.com](Ayoubrafa.com)
-
 - 📫 How to reach me **rafaa.ayoub@gmail.com**
 
 - ⚡ Fun fact **I love to learn new things, and I embrace my inner nerd. 🤓**
